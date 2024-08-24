@@ -2,4 +2,10 @@ body{
     color: black;
     padding: 0;
     margin: 0;
+    display: flex;
+    justify-content: center;
+}
+.box1 {
+    color:blue;
+    background-color: green;
 }
