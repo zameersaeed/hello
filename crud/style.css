@@ -9,3 +9,8 @@ body{
     color:blue;
     background-color: green;
 }
+box2{
+    color: green;
+    background-color: yellow;
+    grid: 20;
+}
